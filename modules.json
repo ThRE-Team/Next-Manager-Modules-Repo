@@ -1,0 +1,109 @@
+[
+  {
+    "id": "KPatch-Next",
+    "name": "KPatch Next",
+    "description": "Standalone implementation of KPM support for Magisk/KernelSU",
+    "author": "rifsxd, KOWX712",
+    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module"
+  },
+  {
+    "id": "ksu_toolkit",
+    "name": "KernelSU Toolkit",
+    "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
+    "author": "xx, KOWX712",
+    "repoUrl": "https://github.com/rifsxd/ksu_toolkit"
+  },
+  {
+    "id": "bindhosts",
+    "name": "Bindhosts",
+    "description": "Systemless hosts for APatch, KernelSU and Magisk",
+    "author": "xx, KOWX712",
+    "repoUrl": "https://github.com/bindhosts/bindhosts"
+  },
+  {
+    "id": "tricky_store",
+    "name": "TEESimulator",
+    "description": "Software simulation for Android hardware-backed key pairs with key attestation",
+    "author": "JingMatrix",
+    "repoUrl": "https://github.com/JingMatrix/TEESimulator"
+  },
+  {
+    "id": "rezygisk",
+    "name": "ReZygisk",
+    "description": "Standalone implementation of Zygisk",
+    "author": "The PerformanC Organization",
+    "repoUrl": "https://github.com/PerformanC/ReZygisk",
+    "visibility": 0
+  },
+  {
+    "id": "COPG",
+    "name": "✨ COPG Spoof ✨",
+    "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
+    "author": "Alireza Parsi",
+    "repoUrl": "https://github.com/AlirezaParsi/COPG"
+  },
+  {
+    "id": "playintegrityfix",
+    "name": "Play Integrity Fix [INJECT]",
+    "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
+    "author": "chiteroman, KOWX712",
+    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix"
+  },
+  {
+    "id": "susfs4ksu",
+    "name": "SUSFS-FOR-KERNELSU",
+    "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
+    "author": "sidex15 & simonpunk",
+    "repoUrl": "https://github.com/sidex15/susfs4ksu-module"
+  },
+  {
+    "id": "microG-GApps",
+    "name": "microG-GApps",
+    "description": "microG, Playstore, Calendar Sync, Contacts Sync",
+    "author": "Psk.It",
+    "repoUrl": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps"
+  },
+  {
+    "id": "com_v7878_pmpatch_full",
+    "name": "PMPatchFull",
+    "description": "Disable signature verification For Android",
+    "author": "v7878",
+    "repoUrl": "https://github.com/vova7878-modules/PMPatch"
+  },
+  {
+    "id": "py2droid",
+    "name": "Py2Droid",
+    "description": "CPython 3.14.2 for Android",
+    "author": "Mrakorez",
+    "repoUrl": "https://github.com/Mrakorez/py2droid"
+  },
+  {
+    "id": "music-jhc-arm64",
+    "name": "Music ReVanced",
+    "description": "Music ReVanced Magisk module",
+    "author": "j-hc",
+    "repoUrl": "https://github.com/j-hc/revanced-magisk-module"
+  },
+  {
+    "id": "youtube-jhc",
+    "name": "YouTube ReVanced",
+    "description": "Music ReVanced Magisk module",
+    "author": "j-hc",
+    "repoUrl": "https://github.com/j-hc/revanced-magisk-module"
+  },
+  {
+    "id": "zygisk_lsposed",
+    "name": "Zygisk - LSPosed",
+    "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled",
+    "author": "LSPosed Developers",
+    "repoUrl": "https://github.com/LSPosed/LSPosed"
+  },
+  {
+    "id": "zygisksu",
+    "name": "Zygisk Next",
+    "description": "Standalone implementation of Zygisk",
+    "author": "5ec1cff, Nullptr",
+    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext"
+  }
+]
+
