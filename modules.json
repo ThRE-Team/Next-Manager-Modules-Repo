@@ -12,8 +12,7 @@
     "name": "KernelSU Toolkit",
     "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
     "author": "xx, KOWX712",
-    "repoUrl": "https://github.com/rifsxd/ksu_toolkit",
-    "license": "Unlicense"
+    "repoUrl": "https://github.com/rifsxd/ksu_toolkit"
   },
   {
     "id": "bindhosts",
@@ -100,7 +99,7 @@
     "name": "Py2Droid",
     "description": "CPython 3.14.2 for Android",
     "author": "Mrakorez",
-    "repoUrl": "https://github.com/Mrakorez/py2droid"
+    "repoUrl": "https://github.com/Mrakorez/py2droid",
     "license": "MIT"
   },
   {
@@ -108,7 +107,7 @@
     "name": "Music ReVanced",
     "description": "Music ReVanced Magisk module",
     "author": "j-hc",
-    "repoUrl": "https://github.com/j-hc/revanced-magisk-module"
+    "repoUrl": "https://github.com/j-hc/revanced-magisk-module",
     "license": "GPL-3.0"
   },
   {
@@ -116,7 +115,7 @@
     "name": "YouTube ReVanced",
     "description": "Music ReVanced Magisk module",
     "author": "j-hc",
-    "repoUrl": "https://github.com/j-hc/revanced-magisk-module"
+    "repoUrl": "https://github.com/j-hc/revanced-magisk-module",
     "license": "GPL-3.0"
   },
   {
@@ -124,7 +123,7 @@
     "name": "Zygisk - LSPosed",
     "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled",
     "author": "LSPosed Developers",
-    "repoUrl": "https://github.com/LSPosed/LSPosed"
+    "repoUrl": "https://github.com/LSPosed/LSPosed",
     "license": "GPL-3.0"
   },
   {
