@@ -4,28 +4,32 @@
     "name": "KPatch Next",
     "description": "Standalone implementation of KPM support for Magisk/KernelSU",
     "author": "rifsxd, KOWX712",
-    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module"
+    "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module",
+    "license": "GPL-3.0"
   },
   {
     "id": "ksu_toolkit",
     "name": "KernelSU Toolkit",
     "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
     "author": "xx, KOWX712",
-    "repoUrl": "https://github.com/rifsxd/ksu_toolkit"
+    "repoUrl": "https://github.com/rifsxd/ksu_toolkit",
+    "license": "Unlicense"
   },
   {
     "id": "bindhosts",
     "name": "Bindhosts",
     "description": "Systemless hosts for APatch, KernelSU and Magisk",
     "author": "xx, KOWX712",
-    "repoUrl": "https://github.com/bindhosts/bindhosts"
+    "repoUrl": "https://github.com/bindhosts/bindhosts",
+    "license": "WTFPL"
   },
   {
     "id": "tricky_store",
     "name": "TEESimulator",
     "description": "Software simulation for Android hardware-backed key pairs with key attestation",
     "author": "JingMatrix",
-    "repoUrl": "https://github.com/JingMatrix/TEESimulator"
+    "repoUrl": "https://github.com/JingMatrix/TEESimulator",
+    "license": "GPL-3.0"
   },
   {
     "id": "rezygisk",
@@ -33,6 +37,7 @@
     "description": "Standalone implementation of Zygisk",
     "author": "The PerformanC Organization",
     "repoUrl": "https://github.com/PerformanC/ReZygisk",
+    "license": "GPL-3.0",
     "visibility": 0
   },
   {
@@ -40,21 +45,41 @@
     "name": "✨ COPG Spoof ✨",
     "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
     "author": "Alireza Parsi",
-    "repoUrl": "https://github.com/AlirezaParsi/COPG"
+    "repoUrl": "https://github.com/AlirezaParsi/COPG",
+    "license": "Apache-2.0"
   },
   {
     "id": "playintegrityfix",
     "name": "Play Integrity Fix [INJECT]",
     "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
     "author": "chiteroman, KOWX712",
-    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix"
+    "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix",
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "deviceidchanger",
+    "name": "DeviceID/SSAID Changer",
+    "description": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
+    "author": "sidex15",
+    "repoUrl": "https://github.com/sidex15/deviceidchanger",
+    "license": "AGPL-3.0"
+
   },
   {
     "id": "susfs4ksu",
     "name": "SUSFS-FOR-KERNELSU",
     "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
     "author": "sidex15 & simonpunk",
-    "repoUrl": "https://github.com/sidex15/susfs4ksu-module"
+    "repoUrl": "https://github.com/sidex15/susfs4ksu-module",
+    "license": "AGPL-3.0"
+  },
+  {
+    "id": "brene",
+    "name": "BRENE - SUSFS-FOR-KERNELSU",
+    "description": "A SuSFS/KernelSU module for SuSFS patched kernels",
+    "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
+    "repoUrl": "https://github.com/rrr333nnn333/BRENE",
+    "license": "AGPL-3.0"
   },
   {
     "id": "microG-GApps",
@@ -76,6 +101,7 @@
     "description": "CPython 3.14.2 for Android",
     "author": "Mrakorez",
     "repoUrl": "https://github.com/Mrakorez/py2droid"
+    "license": "MIT"
   },
   {
     "id": "music-jhc-arm64",
@@ -83,6 +109,7 @@
     "description": "Music ReVanced Magisk module",
     "author": "j-hc",
     "repoUrl": "https://github.com/j-hc/revanced-magisk-module"
+    "license": "GPL-3.0"
   },
   {
     "id": "youtube-jhc",
@@ -90,6 +117,7 @@
     "description": "Music ReVanced Magisk module",
     "author": "j-hc",
     "repoUrl": "https://github.com/j-hc/revanced-magisk-module"
+    "license": "GPL-3.0"
   },
   {
     "id": "zygisk_lsposed",
@@ -97,6 +125,7 @@
     "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled",
     "author": "LSPosed Developers",
     "repoUrl": "https://github.com/LSPosed/LSPosed"
+    "license": "GPL-3.0"
   },
   {
     "id": "zygisksu",
