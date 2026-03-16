@@ -67,6 +67,13 @@
     "description": "Standalone implementation of Zygisk",
     "author": "5ec1cff, Nullptr",
     "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext"
+  },
+  {
+    "id": "kreapic-disable-thermal-universal",
+    "name": "Kreapic Disable Thermal Universal",
+    "description": "This is a Magisk module that is useful for disabling the thermal of your smartphone. Use it wisely, and all risks are your own responsibility.",
+    "author": "Kreapic X AlgorithmIDN",
+    "repoUrl": "https://github.com/duckyduckG/Kreapic-Disable-Thermal"
   }
 ]
 
