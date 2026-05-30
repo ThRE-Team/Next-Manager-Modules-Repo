@@ -74,6 +74,13 @@
     "description": "This is a Magisk module that is useful for disabling the thermal of your smartphone. Use it wisely, and all risks are your own responsibility.",
     "author": "Kreapic X AlgorithmIDN",
     "repoUrl": "https://github.com/duckyduckG/Kreapic-Disable-Thermal"
+  },
+  {
+    "id": "DualSystemSwitcher",
+    "name": "Dual System Switcher",
+    "description": "Dual System Switcher for SDM845.",
+    "author": "ThRE-Team",
+    "repoUrl": "https://github.com/ThRE-Team/DualSystemSwitcher_SDM845"
   }
 ]
 
