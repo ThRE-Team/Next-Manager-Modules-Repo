@@ -83,6 +83,13 @@
     "repoUrl": "https://github.com/ThRE-Team/DualSystemSwitcher_SDM845"
   },
   {
+    "id": "set_anim_05",
+    "name": "Set Anim 0.5x",
+    "description": "Automatically sets system animation scale (window, transition, animator) to 0.5x immediately upon installation and on boot",
+    "author": "ThRE-Team",
+    "repoUrl": "https://github.com/ThRE-Team/Set_Anim"
+  },
+  {
     "id": "YT_morphe_black",
     "name": "YouTube Morphe | BL∆CK",
     "description": "Enjoy Your Life....",
